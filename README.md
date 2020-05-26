@@ -1,5 +1,7 @@
 # SmartContracts
 Course Assignments and notes of Smart Contracts course of blockchain specialization offered by the University of Buffalo.
+## [Certificate](https://www.coursera.org/account/accomplishments/records/FA63X6XLVZHN  "My certificate")
+### [Course](https://www.coursera.org/learn/smarter-contracts "Offered Course")
 ## Week One: Smart Contract Basics
 Contract in the Ethereum Blockchain has:
 
